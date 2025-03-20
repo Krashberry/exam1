@@ -10,7 +10,7 @@ Pretend there's a Figma link [here](https://encrypted-tbn0.gstatic.com/images?q=
 
 ## Types of changes
 
-_What types of changes does your code introduce to Periodikal?_
+_What types of changes does your code introduce to?_
 
 _Put an `x` in the boxes that apply_
 

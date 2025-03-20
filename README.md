@@ -32,12 +32,12 @@ The getName.js file should include the following:
     const input = prompt("Enter your age: ");
     return input;
 }
-$ Second Step - Add your changes via the terminalk command:
+$ Second Step - Add your changes via the terminal command:
     git add welcome.js getName.js
 Then check the status with:
     git status
-Then creat your message for your commit like so:
-    git commit -m “([Your Name]) Feature-A: Show a greeting message to user and ask for their name"
+Then create your message for your commit like so:
+    git commit -m “([Your Name]) Feature-A: Show a greeting message to user and ask for their name."
 Then you'll actually push the commit with:
     git push --set-upstream origin feature-a
 $ Third Step - After pushing your code check your repository to make sure it reflects your commits; then compare and approve your pull request

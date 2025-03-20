@@ -1,4 +1,4 @@
-## Added files and sample code for Eric's 'Feature A' from the 'Git Case Study' exercise to the project folder. made minor spelling corrections.<br>
+## Feature add to verify name and age of attendees.<br>
 
 ## Link to Product Tracker
 

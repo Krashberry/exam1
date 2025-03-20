@@ -10,7 +10,7 @@ _This will be a link to the map or design behind the change decisions._
 
 ## Types of changes
 
-_What types of changes does your code introduce to Periodikal?_
+_What types of changes does your code introduce?_
 
 _Put an `x` in the boxes that apply_
 

@@ -1,16 +1,16 @@
-HEADER 2 - Proposed changes
-LINE BREAK
+## Proposed changes <br>
 
-HEADER 2 - Link to Product Tracker
-ITALICS - This will be a link to the issue you are specifically tasked with resolving.
+## Link to Product Tracker
 
-HEADER 2 - Link to Figma/Zeplin
+_This will be a link to the issue you are specifically tasked with resolving._
 
-ITALICS - This will be a link to the map or design behind the change decisions.
+## Link to Figma/Zeplin
 
-HEADER 2 - Types of changes
+_This will be a link to the map or design behind the change decisions._
 
-ITALICS - What types of changes does your code introduce to Periodikal?
+## Types of changes
+
+_What types of changes does your code introduce to Periodikal?_
 
 _Put an `x` in the boxes that apply_
 
@@ -19,7 +19,7 @@ _Put an `x` in the boxes that apply_
 - [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 - [ ] Documentation Update (if none of the other choices apply)
 
-HEADER 2 - Checklist
+## Checklist
 
 \_Put an `x` in the boxes that apply. You can also fill these out after creating the PR.
 
@@ -29,11 +29,11 @@ HEADER 2 - Checklist
 - [ ] I have added necessary documentation (if appropriate)
 - [ ] Any dependent changes have been merged and published in downstream modules
 
-HEADER 2 - Further comments
+## Further comments
 
-ITALICS - If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc...
+_If this is a relatively large or complex change, kick off the discussion by explaining why you chose the solution you did and what alternatives you considered, etc..._
 
-HEADER 2 - Screenshots if applicable
+## Screenshots if applicable
 
-ITALICS - Include screenshots in case of UI changes
+_Include screenshots in case of UI changes_ <br>
 \_adding change for demo

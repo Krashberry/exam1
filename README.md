@@ -1,24 +1,22 @@
-# exam1
+# Exam 1
 
-HEADER 1 Project Title
+> A short description about the project and/or client.
 
-BLOCKQUOTE A short description about the project and/or client.
+## Getting Started
 
-HEADER 2 Getting Started
+<p> These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-PARAGRAPH These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+### Prerequisites
 
-HEADER 3 Prerequisites
+<p> The things you need before installing the software.
 
-PARAGRAPH The things you need before installing the software.
+- You need this
+- And you need this
+- Oh, and don't forget this
 
-BULLET POINT You need this
-BULLET POINT And you need this
-BULLET POINT Oh, and don't forget this
+### Installation
 
-HEADER 3 Installation
-
-PARAGRAPH A step by step guide that will tell you how to get the development environment up and running.
+<p> A step by step guide that will tell you how to get the development environment up and running.
 
 ```
 $ First step
@@ -26,7 +24,7 @@ $ Another step
 $ Final step
 ```
 
-HEADER 2 Usage
+## Usage
 
 A few examples of useful commands and/or tasks.
 
@@ -36,7 +34,7 @@ $ Second example
 $ And keep this in mind
 ```
 
-HEADER 3 Branches
+### Branches
 
 - Main:
 - Feature:

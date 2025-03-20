@@ -1,4 +1,4 @@
-Name: Issue Report <br>
+Name: Task Creation Doc <br>
 About: Describe this issue template's purpose here. <br>
 Title: '' <br>
 Labels: '' <br>
@@ -6,7 +6,7 @@ Assignees: '' <br>
 
 <br>
 
-## Task Owner (Responsible): [First Name, Last Initial]
+## Task Owner (Responsible): [First Name, Last Initial].
 
 ## Task Assignee (Accountable): [First Name, Last Initial]
 
